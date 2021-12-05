@@ -5,3 +5,5 @@ https://www.reuters.com/article/us-northkorea-usa-sanctions/u-s-imposes-sanction
 https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.98_ENG.pdf
 
 https://securelist.com/andariel-evolves-to-target-south-korea-with-ransomware/102811/
+
+https://www.crowdstrike.com/blog/how-falcon-overwatch-detected-silent-chollima-custom-tooling/
