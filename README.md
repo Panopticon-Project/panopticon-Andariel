@@ -9,3 +9,5 @@ https://securelist.com/andariel-evolves-to-target-south-korea-with-ransomware/10
 https://www.crowdstrike.com/blog/how-falcon-overwatch-detected-silent-chollima-custom-tooling/
 
 https://threatray.com/blog/establishing-the-tigerrat-and-tigerdownloader-malware-families/
+
+https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
